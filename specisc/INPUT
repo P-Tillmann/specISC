@@ -1,0 +1,11 @@
+
+ &INPUT
+    idatm=4,
+    isat=0,
+    wlinf=.25,
+    wlsup=1.0,
+    wlinc=.005,
+    iout=1,
+    tcloud=5
+    albcon=0.2
+ /
